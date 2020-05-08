@@ -15,10 +15,10 @@ namespace Corona_Wars
             Console.WriteLine("Thankfully a sinister LOAN SHARK has lent you 200kr with 10% daily interest to \"help\" you get back on your feet again.");
             Console.WriteLine("It's your job to navigate Gothenburg's infected supermarket aisles in search of the best deals on essential supplies.");
             Console.WriteLine("You can then profit by selling them to desperate hopefuls from the boot of your Volvo V70 in the carparks outside.");
-            Console.WriteLine("In order to compete with the supermarket you visit each day, you price-beat them by selling your stock with a 10% discount.");
+            Console.WriteLine("In order to compete with the supermarkets you visit each day, you price-beat them by selling your stock with a 10% discount.");
             Console.WriteLine("Unfortunately OFFICER HARDASS is quickly catching on to your scheming black marketing ways and you only have 10 supermarket visits left");
             Console.WriteLine("before the patrol vans and surveillance cameras are too many.");
-            Console.WriteLine("Dang! What a drag man!");
+            Console.WriteLine("Dang, what a drag man! Good luck!");
             PrintLine();
             Console.WriteLine("Note: You can return to your main options and escape a BUY, SELL or BAIL command by typing ABORT");
             PrintLine();
